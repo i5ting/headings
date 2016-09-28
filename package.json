@@ -1,0 +1,31 @@
+{
+  "name": "headings",
+  "version": "1.0.0",
+  "description": "get headings from markdown file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/headings.git"
+  },
+  "keywords": [
+    "markdown",
+    "markdd",
+    "md",
+    "doc",
+    "document",
+    "headings",
+    "h1"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/headings/issues"
+  },
+  "homepage": "https://github.com/i5ting/headings#readme",
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
+}
